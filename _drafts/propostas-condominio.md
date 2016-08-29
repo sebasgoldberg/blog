@@ -11,4 +11,5 @@ Possiveis fornecedores:
 # Placas solares
 Possiveis fornecedores:
 - [Neosolar](http://www.neosolar.com.br/)
+
 # Covertura churrasqueiras
