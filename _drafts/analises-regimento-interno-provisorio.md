@@ -13,7 +13,7 @@ condôminos vizinhos, inclusive com o uso e abuso de aparelhos de som, instrumen
 musicais, ruídos estranhos, gritos, vozerios, risadas, arrastar móveis, sapatear sobre pisos,
 “especialmente” no horário das 22 hs às 8hs;
 
--Tem dias, especialmente os sabados que nao é respeitado.
+- Tem dias, especialmente os sabados que nao é respeitado.
 - Também tem o problema do condominio da frente. Acho que seria bom, dada a proximidade, incluir algum tipo de regra no regimento interno deles e no nosso.
 
 > h) - zelar pelo asseio e segurança do CONDOMÍNIO, depositando lixos e varreduras nos
